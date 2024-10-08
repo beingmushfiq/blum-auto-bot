@@ -49,7 +49,7 @@ The One-time Flow will continuously execute these tasks, handling errors gracefu
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/dante4rt/blum-auto-bot.git
+    git clone https://github.com/beingmushfiq/blum-auto-bot.git
     ```
 
 2. **Navigate to the project directory:**
